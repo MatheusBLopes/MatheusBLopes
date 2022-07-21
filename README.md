@@ -1,5 +1,5 @@
 ### Hi there, my name is Matheus Bachiste Lopes 👋
-- I'm 23 years old, and i am from Brazil
+- I'm 24 years old, and i am from Brazil
 - 🌱 I’m currently learning Python with Django and JavaScript with React
 
 <!--
