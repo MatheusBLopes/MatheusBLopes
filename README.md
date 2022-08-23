@@ -1,6 +1,7 @@
-### Hi there, my name is Matheus Bachiste Lopes 👋
+# Matheus B. Lopes
 - I'm 24 years old, and i am from Brazil
-- 🌱 I’m currently learning Python with Django and JavaScript with React
+- 🔭 I've been working with Python
+- 🌱 I've been learning Javascript for front-end
 
 <!--
 **MatheusBLopes/MatheusBLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
