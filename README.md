@@ -1,7 +1,9 @@
 # Matheus B. Lopes
-- I'm 24 years old, and i am from Brazil
-- 🔭 I've been working with Python
-- 🌱 I've been learning Javascript for front-end
+
+Python developer, graduated in Systems Analysis and Development, passionate about technology. I have public speaking skills, ease of working in a team, willingness to learn and build something new.
+I've been working with systems integration, more specifically marketplaces, where we build the system to integrate orders, products with stock and price and notifications for the seller. The technologies i've been working are Python, Microsservices, AWS, Unit Tests, GitHub/GitLab and Grafana.
+
+Take a look at my website: https://www.baruckdev.com/
 
 <!--
 **MatheusBLopes/MatheusBLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
